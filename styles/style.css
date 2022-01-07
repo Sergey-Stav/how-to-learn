@@ -50,6 +50,11 @@
   font-weight: normal;
 }
 
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -111,7 +116,113 @@
   font-size: 24px;
   font-weight: bold;
 }
+.digits {
+  margin: 100px 0;
+}
+.section-title {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 60%;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
 
+.section-subtitle {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 60%;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+.table {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.table__cell {
+  width: 250px;
+  margin-top: 60px;
+}
+
+.table__heading {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text {
+  margin: 20px 0 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+
+}
+/* Mix */
+.centered-block {
+  margin: auto;
+}
+
+.section-subtitle_margin {
+  margin: 20px auto 0;
+}
+
+.feynman {
+  height: 890px;
+  background-color: #f2f2f2;
+  background-image: url(../images/feynman.png);
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.feynman__title {
+  margin: 100px 0 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.feynman__subtitle {
+  margin: 70px 0 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.feynman__link {
+  text-decoration: none;
+  color: #2f80ed;
+  background-color: #fff;
+  padding: 15px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+}
 
 
 /* и элемента с модификатором вида ключ-значение */
