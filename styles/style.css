@@ -5,6 +5,7 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* Styles for header */
 .header {
   height: 100vh;
   min-height: 600px;
@@ -74,6 +75,9 @@
   right: 0;
 }
 
+/* Styles for main content */
+
+/* Styles for description block */
 .description {
   margin: 100px 0;
   display: flex;
@@ -121,6 +125,7 @@
   font-weight: bold;
 }
 
+/* Styles for digits block */
 .digits {
   margin: 100px 0;
   display: flex;
@@ -180,6 +185,7 @@
   font-weight: normal;
 }
 
+/* Styles for feynman block */
 .feynman {
   min-height: 890px;
   background-color: #f2f2f2;
@@ -229,6 +235,7 @@
   bottom: 0;
 }
 
+/* Styles for kaufman block */
 .kaufman {
   background-color: #1f1f1f;
   padding-top: 90px;
@@ -275,6 +282,7 @@
   right: -210px;
 }
 
+/* Styles for footer */
 .footer {
   min-height: 350px;
   background-color: #1f1f1f;
