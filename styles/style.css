@@ -87,11 +87,10 @@
 
 .two-columns {
   width: 80%;
-  min-height: 366px;
   display: flex;
   justify-content: space-between;
-
 }
+
 .two-columns__brief {
   margin: 0;
   padding: 0;
@@ -112,12 +111,16 @@
 }
 
 .two-columns__paragraph {
-  margin: 0;
+  margin: 0 0 30px;
   padding: 0;
   box-sizing: border-box;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+}
+/* margin-bottom: 0 for the third paragraph */
+.two-columns__paragraph:nth-of-type(3) {
+  margin-bottom: 0;
 }
 
 .two-columns__span-accent {
