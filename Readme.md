@@ -1,7 +1,15 @@
 # Научиться учиться
+<<<<<<< HEAD
 <p align="center">
 <img src="./images/screenshots/chrome_nANVItB00k.gif?raw=true" width="640px">
 </p>
+=======
+
+<p align="center">
+<img src="./images/screenshots/chrome_nANVItB00k.gif?raw=true" width="640px">
+</p>
+
+>>>>>>> a7121fcd973455e306aebf66961e2df0c7066969
 ### Описание:
 В проекте рассмотрены современные и эффективные подходы к обучению,
 которые можно использовать в своей профессиональной жизни:
