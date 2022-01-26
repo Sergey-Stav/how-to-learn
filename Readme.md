@@ -1,6 +1,8 @@
 # Научиться учиться
 
+<p align="center">
 <img src="./images/screenshots/chrome_nANVItB00k.gif?raw=true" width="640px">
+</p>
 
 ### Описание:
 В проекте рассмотрены современные и эффективные подходы к обучению,
